@@ -1,0 +1,12 @@
+site_name: Documentação da Atividade
+site_author: Kelvin
+
+theme:
+    name: material
+
+nav:
+    - Home: index.md
+    - Instalação e Configuração: instalacao-configuracao.md
+    - MkDocs: mkdocs.md
+    - WordPress: wordpress.md
+    - Referências: referencias.md

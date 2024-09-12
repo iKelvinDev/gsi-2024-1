@@ -1,5 +1,6 @@
 site_name: Documentação da Atividade
 site_author: Kelvin
+site_dir: /var/www/html/tsi5/doc/kelvin/instalacao-config-mkdocs-wordpress
 
 theme:
     name: material
